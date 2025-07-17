@@ -1,4 +1,4 @@
 <?php
-    echo "this subject is";
+    echo "this subject";
     
 ?>
